@@ -1,0 +1,11 @@
+[project]
+name = "mcp-client-server-setup"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.12.4",
+    "openai-agents>=0.2.5",
+    "prompt-toolkit>=3.0.51",
+]
